@@ -1,87 +1,52 @@
-# Hi, I’m kallenluca 👋
 
-Full-Stack Engineer • AI Integrations • Shopify Commerce • Exploring Game Engines
+<h1>Hi There, I'm kallenluca <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-[![Full-Stack Engineer](https://img.shields.io/badge/Full--Stack-Engineer-00C7B7?style=for-the-badge&logo=codepen&logoColor=white)](#)
-[![AI Integrations](https://img.shields.io/badge/AI-Integrations-2F80ED?style=for-the-badge&logo=brain&logoColor=white)](#)
-[![Shopify Commerce](https://img.shields.io/badge/Shopify-Commerce-F05A28?style=for-the-badge&logo=shopify&logoColor=white)](#)
-[![Game Dev](https://img.shields.io/badge/Game%20Dev-Learning-9B59B6?style=for-the-badge&logo=unity&logoColor=white)](#)
-[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Available-brightgreen?style=for-the-badge)](#)
+I'm a **Machine Learning Engineer** working at [Peak](https://peak.ai/). My day to day work revolves around building Machine Learning models for various interesting problems and deploying them to production, at scale. I'm open to collaborate on interesting projects.
 
-![Header](https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=1600&q=80)
+## Skill Set :muscle:
 
-## About me
-I’m a full-stack engineer with 6 years of experience building and integrating AI into real-world products. I enjoy working across the stack — from product logic and data flow to interfaces and backend systems that make features useful in production.
+These are some of the major technologies that I use or have worked on in the past:
 
-I’ve also built and operated 3 Shopify stores, which gave me a strong understanding of eCommerce flows, conversion, product thinking, and customer experience. That experience taught me how software connects to business outcomes, not just code quality.
+**Programming Languages**
 
-Now, I’m exploring game engines and interactive systems, because I want to build more immersive digital experiences and push my engineering into new creative territory.
+<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img alt="Typescript" title="Typescript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png">|<img title="Go" alt="Go" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png">|<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">
+|--|--|--|--|--|
 
-- 🔭 Currently building: full-stack products, AI workflows, eCommerce systems, and game/dev experiments
-- 🌱 Learning: game engines, gameplay systems, rendering fundamentals, and interactive design
-- 👯 Open to: AI product work, eCommerce engineering, and creative tech collaborations
-- 💬 Ask me about: full-stack engineering, AI integration, Shopify builds, and the move into game dev
-- 📫 Reach me: your-email@example.com
+**Libraries and Frameworks**
 
----
+<img title="TensorFlow" alt="TensorFlow" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png">|<img title="Keras" alt="Keras" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/240px-Keras_logo.svg.png">|<img title="Scikit-Learn" alt="Scikit Learn" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/scikit-learn/scikit-learn.png">|<img title="OpenCV" alt="OpenCV" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png">|<img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">
+|--|--|--|--|--|
+<img title="Flask" alt="Flask" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png">|<img title="Django" alt="Django" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png">|<img title="jQuery" alt="jQuery" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jquery/jquery.png">|<img title="GrahpQL" alt="GraphQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/graphql/graphql.png">|<img title="Selenium" alt="Selenium" width="40px" src="https://img.icons8.com/color/48/000000/selenium-test-automation.png">
 
-## What I bring
-- Full-stack development across frontend and backend
-- AI integration for real-world business workflows
-- Shopify store builds and optimization
-- Product thinking with a strong focus on usability and execution
-- Curiosity and experimentation in game systems, engines, and interactive experiences
+**Infrastructure**
 
----
+<img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png">|<img title="Kubernetes" alt="Kubernetes" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png">|<img title="Heroku" alt="Heroku" width="40px" src="https://img.icons8.com/color/48/000000/heroku.png">
+|--|--|--|
 
-## Experience snapshot
-- 6 years of AI integration experience
-- 3 Shopify stores built and managed
-- Comfortable building across product, logic, UX, and systems
-- Strong interest in immersive digital experiences and game-related engineering
+**Databases**
 
----
+<img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">|<img title="MongoDB" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png">|<img title="ElasticSearch" alt="ElasticSearch" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/elasticsearch/elasticsearch.png"> <br>
+|--|--|--|
 
-## Tech I work with
-- **Languages:** [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](#) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](#) [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](#)
-- **Frontend:** [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](#) [![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](#) [![UI](https://img.shields.io/badge/UI-Systems-0A74DA?style=flat-square&logo=figma&logoColor=white)](#)
-- **Backend:** [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](#) [![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)](#) [![APIs](https://img.shields.io/badge/APIs-Design-lightgrey?style=flat-square&logo=postman&logoColor=white)](#)
-- **AI & Data:** [![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai&logoColor=white)](#) [![Embeddings](https://img.shields.io/badge/Embeddings-VectorDB-4B5563?style=flat-square&logo=redis&logoColor=white)](#) [![LLM Workflows](https://img.shields.io/badge/LLM-Workflows-2F80ED?style=flat-square&logo=azuredevops&logoColor=white)](#)
-- **Commerce:** [![Shopify](https://img.shields.io/badge/Shopify-Commerce-95BF47?style=flat-square&logo=shopify&logoColor=white)](#) [![Liquid](https://img.shields.io/badge/Liquid-Templating-1E90FF?style=flat-square&logo=jekyll&logoColor=white)](#)
-- **Tools & DevOps:** [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](#) [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)](#) [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](#) [![CI/CD](https://img.shields.io/badge/CI%2FCD-Automation-6F42C1?style=flat-square&logo=gitlab&logoColor=white)](#)
+**Tools**
 
----
+<img title="Ubuntu" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png">|<img title="ZSH" alt="ZSH" width="40px" src="https://s3.amazonaws.com/ohmyzsh/oh-my-zsh-logo.png">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|<img title="Jupyter Notebook" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png">
+|--|--|--|--|--|
+<br>
 
-## Current focus
-- Shipping practical full-stack features
-- Integrating AI into real products in useful ways
-- Learning game engine fundamentals and interactive systems
-- Exploring how AI and gameplay can work together
+## Some of my stats :bar_chart:
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=techytushar&show_icons=true&theme=radical&include_all_commits=true">|<a href="https://stackoverflow.com/users/story/5679285"><img src="https://github-readme-stackoverflow.vercel.app/?userID=5679285&theme=dark" height="250"></a>
+|--|--|
 
-## Selected work
-- [shopify-store-project](https://github.com/yourusername/project1) — Shopify storefront and business workflow project
-- [ai-integration-project](https://github.com/yourusername/project2) — AI-powered product or automation workflow
-- [game-dev-experiment](https://github.com/yourusername/project3) — Game-related prototype or interactive system
+<br>
 
-> Replace the links above with your real repositories and project summaries.
+## Let's Connect :handshake:
 
----
+<a href="https://www.linkedin.com/in/tusharmit/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="https://www.kaggle.com/techytushar/"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="40"></a>
+|--|--|
 
-## GitHub stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=kallenluca919-coder&show_icons=true&theme=tokyonight)](https://github.com/kallenluca919-coder)
+### Here is a random meme for you, to make your day better
+(*PS: Refresh the page to see a new meme* :wink: )
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kallenluca919-coder&layout=compact&theme=tokyonight)](https://github.com/kallenluca919-coder)
-
----
-
-## Connect
-- Website: https://your-site.example
-- LinkedIn: https://www.linkedin.com/in/yourprofile
-- Email: your-email@example.com
-- Twitter: https://twitter.com/yourhandle
-
----
-
-I’m a builder at heart — whether it’s an application, an AI workflow, a storefront, or a game system, I enjoy turning ideas into something real.
+<a href="https://github.com/techytushar/random-memer"><img src='https://web-production-4cea.up.railway.app/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400"></a>
