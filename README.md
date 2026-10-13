@@ -1,7 +1,7 @@
 # Hi — I’m kallenluca919-coder 👋
 Git expert · workflow architect · trunk-based & rebase-first evangelist
 
-![Header](https://images.unsplash.com/photo-1633356122544-f134324a6cee?auto=format&fit=crop&w=1200&q=80)
+![Header](https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=1600&q=80)
 
 ## About
 I help teams move faster and safer with Git: repository design, branching strategies, rebases & merges, commit hygiene, CI-friendly workflows, and advanced recovery (reflog, bisect, reflow). I teach Git through hands-on workshops and engineer automation so teams spend less time fixing history and more time building.
