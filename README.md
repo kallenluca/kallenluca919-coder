@@ -1,44 +1,52 @@
 # Hi — I’m kallenluca919-coder 👋
-Git expert · workflow architect · trunk-based & rebase-first evangelist
+Full‑Stack Engineer · Git expert · AI integrator (6 years) · eCommerce (Shopify ×3)
 
 ![Header](https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=1600&q=80)
 
 ## About
-I help teams move faster and safer with Git: repository design, branching strategies, rebases & merges, commit hygiene, CI-friendly workflows, and advanced recovery (reflog, bisect, reflow). I teach Git through hands-on workshops and engineer automation so teams spend less time fixing history and more time building.
+I build end-to-end products and infrastructure: web, APIs, automation, and AI integrations. I have 6 years of experience integrating AI into production systems (recommendation, search, assistants, and automation), ran three Shopify stores end-to-end, and I’m now exploring game engines and interactive systems.
 
-- 🔭 I’m currently focused on: Git workflows, repository architecture, and developer tooling
-- 🌱 I’m learning: advanced Git operations, large-repo scaling, and automation patterns
-- 👯 I’m open to: consulting, code reviews, and Git workshop sessions
+- 🔭 Currently: shipping full‑stack features, Git workflows, and AI-powered integrations
+- 🌱 Learning: game engines and interactive systems (experimenting with Unity / Godot / Unreal concepts)
+- 👯 Open to: collaborations on AI+product, eCommerce tooling, and game-engine experimentation
 - 📫 Reach me: your-email@example.com · https://your-site.example
 
 ---
 
-## Quick Git profile
+## Quick Git + profile
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=kallenluca919-coder&show_icons=true&theme=tokyonight)](https://github.com/kallenluca919-coder)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kallenluca919-coder&layout=compact&theme=tokyonight)](https://github.com/kallenluca919-coder)
 
 ---
 
 ## What I do (high level)
-- Design branching strategies (Trunk-Based, GitFlow, Fork & PR) tailored to team size and release cadence
-- Create safe rebase & merge rules and pre-merge checks for CI / release gates
-- Recover repositories: undo commits, rescue dangling changes, and rewrite history safely
-- Build Git automation: hooks, aliases, bots, and Actions for release pipelines and contributor workflows
-- Scale Git for large repositories (sparse-checkout, partial clone, git-lfs, subtrees)
+- Build user-facing single-page apps and server-side services (React/Next, Node.js, and backend APIs)
+- Design and integrate AI systems into products (retrieval, fine-tuning, embeddings, pipelines, orchestrations)
+- Operate and optimize Shopify stores: theme customizations, apps, fulfillment flows, and conversion optimizations (ran 3 stores)
+- Improve developer workflows with Git: branching strategies, protected branches, automation, and recovery patterns
+- Prototype game interactions and engine integrations as I transition into interactive systems
 
 ---
 
 ## Selected projects / showcases
-- [project-a](https://github.com/kallenluca919-coder/project-a) — Migrated a monorepo to sparse-checkout and reduced dev clone times by 70%
-- [project-b](https://github.com/kallenluca919-coder/project-b) — Built CI gating that enforces strict commit message and code-owner checks
-- [project-c](https://github.com/kallenluca919-coder/project-c) — Contributed a set of git aliases and a release Action used across 10+ repos
+- [shopify-store-example](https://github.com/kallenluca919-coder/project-a) — End‑to‑end Shopify store build: theme, apps, and automated fulfillment flows
+- [ai-integration-example](https://github.com/kallenluca919-coder/project-b) — Production AI pipeline: embeddings + semantic search + retriever-enhanced generation
+- [devops-git-tools](https://github.com/kallenluca919-coder/project-c) — Git aliases, Actions and CI gating used across multiple repos
 
 (Replace the links above with your real project repos to pin them on your profile.)
 
 ---
 
-## Git cheat sheet (copyable)
+## Tech & skills
+- Languages: JavaScript, TypeScript, Python
+- Frameworks: React, Next.js, Node.js, Express
+- AI & tooling: embeddings, vector DBs, LangChain-style pipelines, model orchestration
+- eCommerce: Shopify themes, Apps, storefront API, conversion optimization
+- Dev tooling: Git (advanced), GitHub Actions, Docker, CI/CD
+
+---
+
+## Quick Git cheat sheet
 # Basic
 git clone <repo>
 git status
@@ -52,66 +60,19 @@ git fetch origin
 git rebase origin/main
 git merge --no-ff feature/awesome
 
-# Safe history editing
-git commit --amend --no-edit
-git rebase -i HEAD~5
-
 # Undo / recovery
 git restore <file>
 git restore --staged <file>
 git reset --soft HEAD~1
 git reflog
-git checkout -p <commit> -- <file>
-
-# Bisect for regressions
-git bisect start
-git bisect bad
-git bisect good <commit>
-
-# Create a patch series
-git format-patch origin/main
-git am <patch>
-
-# Sparse checkout (large repos)
-git sparse-checkout init --cone
-git sparse-checkout set path/to/subdir
-
-# LFS (large files)
-git lfs install
-git lfs track "*.bin"
 
 ---
 
-## Advanced Git patterns & tips
-- Use rebase for a clean topic branch history; use merge when preserving merge commits matters (long-lived integration branches).
-- Prefer squash-merge for small PRs; prefer merge commits for release integration. Decide policy and enforce via branch protection.
-- Reflog + git fsck are your friends for accidental deletes; practice safe history rewrite with shared coordination (announce force-push).
-- Use commit message templates and CI checks (commitlint) to keep changelogs and release notes reliable.
-- For large monorepos, combine partial clone, sparse-checkout, and subtrees (or split with git fast-export/import) depending on ownership and CI needs.
-- Create commonly used aliases in ~/.gitconfig to save time:
-  [alias]
-    co = checkout
-    br = branch
-    st = status
-    lg = log --oneline --graph --decorate --all
-
----
-
-## Workshops, talks & teaching
-I run interactive workshops covering:
-- Git fundamentals & mental model (HEAD, index, refs)
-- Rebase workflows and conflict resolution
-- Repo repair & advanced recovery (reflog, bisect, fsck)
-- Scaling Git for teams and large repos
-
-If you want a tailored workshop or talk for your team, DM / email me: your-email@example.com
-
----
-
-## How to show contributions & credibility
-- Pin the repositories that best demonstrate your Git work (migrations, tooling, docs, Actions).
-- Add short demo GIFs showing a common fix (e.g., interactive rebase to squash commits) in /assets and reference them.
-- Link to slide decks, blog posts, or recorded talks about Git best practices.
+## Next steps I can help with
+- Replace placeholders with your real repo links and short project descriptions
+- Generate a polished banner or personal avatar (I can create a few options and add the image to /assets)
+- Create demo GIFs for a 30–60s workflow (interactive rebase, Shopify theme preview, or an AI demo)
+- Add a GitHub Action to auto-update a “Currently working on” section from a data file or issue board
 
 ---
 
@@ -123,7 +84,4 @@ If you want a tailored workshop or talk for your team, DM / email me: your-email
 
 ---
 
-If you want, I can also help you:
-- replace the placeholders with your real project links
-- generate a better header or custom banner for your profile
-- make a more personal version of the README that feels less generic and more like your real identity
+Tell me which project links and contact details you want used and whether you want the banner to be bespoke (I can generate images) — I’ll finalize everything and add demo assets to the repo.
