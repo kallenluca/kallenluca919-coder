@@ -43,35 +43,12 @@ Now, I’m exploring game engines and interactive systems, because I want to bui
 ---
 
 ## Tech I work with
-- Languages: 
-  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)  
-  [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](#)  
-  [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
-
-- Frontend: 
-  [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](#)  
-  [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#)  
-  [![UI](https://img.shields.io/badge/UI-Systems-0A74DA?style=for-the-badge&logo=figma&logoColor=white)](#)
-
-- Backend: 
-  [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](#)  
-  [![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](#)  
-  [![APIs](https://img.shields.io/badge/APIs-Design-lightgrey?style=for-the-badge&logo=postman&logoColor=white)](#)
-
-- AI & Data: 
-  [![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white)](#)  
-  [![Embeddings](https://img.shields.io/badge/Embeddings-VectorDB-4B5563?style=for-the-badge&logo=redis&logoColor=white)](#)  
-  [![LLM Workflows](https://img.shields.io/badge/LLM-Workflows-2F80ED?style=for-the-badge&logo=azuredevops&logoColor=white)](#)
-
-- Commerce: 
-  [![Shopify](https://img.shields.io/badge/Shopify-Commerce-95BF47?style=for-the-badge&logo=shopify&logoColor=white)](#)  
-  [![Liquid](https://img.shields.io/badge/Liquid-Templating-1E90FF?style=for-the-badge&logo=jekyll&logoColor=white)](#)
-
-- Tools & DevOps: 
-  [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)  
-  [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](#)  
-  [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](#)  
-  [![CI/CD](https://img.shields.io/badge/CI%2FCD-Automation-6F42C1?style=for-the-badge&logo=gitlab&logoColor=white)](#)
+- Languages: [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](#) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](#) [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](#)
+- Frontend: [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](#) [![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](#) [![UI](https://img.shields.io/badge/UI-Systems-0A74DA?style=flat-square&logo=figma&logoColor=white)](#)
+- Backend: [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](#) [![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)](#) [![APIs](https://img.shields.io/badge/APIs-Design-lightgrey?style=flat-square&logo=postman&logoColor=white)](#)
+- AI & Data: [![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai&logoColor=white)](#) [![Embeddings](https://img.shields.io/badge/Embeddings-VectorDB-4B5563?style=flat-square&logo=redis&logoColor=white)](#) [![LLM Workflows](https://img.shields.io/badge/LLM-Workflows-2F80ED?style=flat-square&logo=azuredevops&logoColor=white)](#)
+- Commerce: [![Shopify](https://img.shields.io/badge/Shopify-Commerce-95BF47?style=flat-square&logo=shopify&logoColor=white)](#) [![Liquid](https://img.shields.io/badge/Liquid-Templating-1E90FF?style=flat-square&logo=jekyll&logoColor=white)](#)
+- Tools & DevOps: [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](#) [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)](#) [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](#) [![CI/CD](https://img.shields.io/badge/CI%2FCD-Automation-6F42C1?style=flat-square&logo=gitlab&logoColor=white)](#)
 
 ---
 
