@@ -11,16 +11,16 @@ Full-Stack Engineer • AI Integrations • Shopify Commerce • Exploring Game 
 ![Header](https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=1600&q=80)
 
 ## About me
-I’m a full-stack builder with 6 years of experience designing and integrating AI into real products. I’ve worked on systems that combine data, automation, and user experience — from backend logic to interfaces people actually use.
+I’m a full-stack engineer with 6 years of experience building and integrating AI into real-world products. I enjoy working across the stack — from product logic and data flow to interfaces and backend systems that make features useful in production.
 
-I’ve also built and operated 3 Shopify stores, which taught me how product, conversion, operations, and customer experience fit together in the real world.
+I’ve also built and operated 3 Shopify stores, which gave me a strong understanding of eCommerce flows, conversion, product thinking, and customer experience. That experience taught me how software connects to business outcomes, not just code quality.
 
-Right now, I’m shifting deeper into game engine development and interactive systems, because I want to build more immersive digital experiences and push my engineering into new creative territory.
+Now, I’m exploring game engines and interactive systems, because I want to build more immersive digital experiences and push my engineering into new creative territory.
 
-- 🔭 Currently building: full-stack products, AI-powered workflows, and experiments in game systems
+- 🔭 Currently building: full-stack products, AI workflows, eCommerce systems, and game/dev experiments
 - 🌱 Learning: game engines, gameplay systems, rendering fundamentals, and interactive design
-- 👯 Open to: AI product work, eCommerce tech, and creative engineering collaborations
-- 💬 Ask me about: full-stack engineering, AI integration, Shopify builds, and the path into game dev
+- 👯 Open to: AI product work, eCommerce engineering, and creative tech collaborations
+- 💬 Ask me about: full-stack engineering, AI integration, Shopify builds, and the move into game dev
 - 📫 Reach me: your-email@example.com
 
 ---
@@ -37,33 +37,56 @@ Right now, I’m shifting deeper into game engine development and interactive sy
 ## Experience snapshot
 - 6 years of AI integration experience
 - 3 Shopify stores built and managed
-- Strong interest in building immersive, interactive software
-- Comfortable working across product, logic, UX, and systems
+- Comfortable building across product, logic, UX, and systems
+- Strong interest in immersive digital experiences and game-related engineering
 
 ---
 
 ## Tech I work with
-- Languages: JavaScript, TypeScript, Python
-- Frontend: React, Next.js, frontend architecture, UI systems
-- Backend: Node.js, APIs, integrations, services
-- AI: LLM workflows, automation, embeddings, prompt orchestration, integrations
-- Commerce: Shopify store setup, custom logic, storefront flows, optimization
-- Tools: Git, GitHub Actions, Docker, CI/CD
+- Languages: 
+  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)  
+  [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](#)  
+  [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
+
+- Frontend: 
+  [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](#)  
+  [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#)  
+  [![UI](https://img.shields.io/badge/UI-Systems-0A74DA?style=for-the-badge&logo=figma&logoColor=white)](#)
+
+- Backend: 
+  [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](#)  
+  [![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](#)  
+  [![APIs](https://img.shields.io/badge/APIs-Design-lightgrey?style=for-the-badge&logo=postman&logoColor=white)](#)
+
+- AI & Data: 
+  [![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white)](#)  
+  [![Embeddings](https://img.shields.io/badge/Embeddings-VectorDB-4B5563?style=for-the-badge&logo=redis&logoColor=white)](#)  
+  [![LLM Workflows](https://img.shields.io/badge/LLM-Workflows-2F80ED?style=for-the-badge&logo=azuredevops&logoColor=white)](#)
+
+- Commerce: 
+  [![Shopify](https://img.shields.io/badge/Shopify-Commerce-95BF47?style=for-the-badge&logo=shopify&logoColor=white)](#)  
+  [![Liquid](https://img.shields.io/badge/Liquid-Templating-1E90FF?style=for-the-badge&logo=jekyll&logoColor=white)](#)
+
+- Tools & DevOps: 
+  [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)  
+  [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](#)  
+  [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](#)  
+  [![CI/CD](https://img.shields.io/badge/CI%2FCD-Automation-6F42C1?style=for-the-badge&logo=gitlab&logoColor=white)](#)
 
 ---
 
 ## Current focus
 - Shipping practical full-stack features
-- Integrating AI into products in useful, real ways
+- Integrating AI into real products in useful ways
 - Learning game engine fundamentals and interactive systems
 - Exploring how AI and gameplay can work together
 
 ---
 
 ## Selected work
-- [shopify-store-project](https://github.com/yourusername/project1) — Shopify store build with custom workflows and optimizations
-- [ai-integration-project](https://github.com/yourusername/project2) — AI-powered product or workflow integration
-- [game-dev-experiment](https://github.com/yourusername/project3) — Game engine or interactive prototype work
+- [shopify-store-project](https://github.com/yourusername/project1) — Shopify storefront and business workflow project
+- [ai-integration-project](https://github.com/yourusername/project2) — AI-powered product or automation workflow
+- [game-dev-experiment](https://github.com/yourusername/project3) — Game-related prototype or interactive system
 
 > Replace the links above with your real repositories and project summaries.
 
